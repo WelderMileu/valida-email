@@ -92,8 +92,11 @@ body {
 	color: green;
 }
 
-
-
+@media (max-width:414px) {
+	.container .form input {
+		width: 100%;
+	}
+}
 
 
 
