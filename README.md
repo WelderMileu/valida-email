@@ -1,0 +1,1 @@
+## Validando E-mail com javascript puro.
